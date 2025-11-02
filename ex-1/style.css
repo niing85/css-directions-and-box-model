@@ -1,1 +1,38 @@
 /* Start coding here */
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.topic-tab{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(150, 169, 198);
+    padding: 40px;
+    color: darkblue;
+}
+
+div{
+    background-color: rgb(150, 169, 198);
+    border: 5px solid rgb(23, 37, 74);
+    padding: 5px;
+    margin: 50px 50px 0px 50px;
+    width: 500px;
+}
+
+img{
+    width: 70%;
+    padding: 15px;
+}
+
+.title{
+    font-size: larger;
+    color: darkblue;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.detail{
+    padding: 0px 15px 15px 15px;
+}
